@@ -4,7 +4,9 @@
 
 Esse repositório tem o propósito de organizar a criação da comunidade brasileira do DEV Protocol.
 
-DEV é um protocolo baseado no blockchain da Ethereum que permite que projetos open-source financiem de forma sustentável o seu desenvolvimento. Patronos podem realizar o stake de tokens DEV para projetos que eles querem apoiar. O protocolo gera rendimentos que são divididos entre o patrono e o desenvolvedor do projeto. DEV protocol é a única plataforma que permite que tanto os patronos quanto os desenvoledores ganhem dinheiros por suportar uns aos outros.
+DEV é um protocolo baseado no blockchain da Ethereum que permite que projetos open-source financiem de forma sustentável o seu desenvolvimento.
+
+Patronos podem realizar o stake de tokens DEV para projetos que eles querem apoiar. O protocolo gera rendimentos que são divididos entre o patrono e o desenvolvedor do projeto. DEV protocol é a única plataforma que permite que tanto os patronos quanto os desenvolvedores ganhem dinheiro por suportar uns aos outros.
 
 Para mais informações (em inglês) sobre o protocolo, visite sua documentação em [https://docs.devprotocol.xyz/dev-protocol/](https://docs.devprotocol.xyz/dev-protocol/)
 
