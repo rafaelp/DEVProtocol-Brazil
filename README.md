@@ -29,11 +29,21 @@ Montamos um roadmap inicial para consolidar a comunidade brasileira com as segui
   * Website: https://devprotocol.xyz/
   * Whitepaper: https://github.com/dev-protocol/protocol/blob/main/docs/WHITEPAPER.md
   * Documentação: https://docs.devprotocol.xyz/dev-protocol/
-  * Fórum de Discussão: https://community.devprotocol.xyz/
+
+## Comunidade DEV Protocol
+
+  * [Medium Page](https://medium.com/devprtcl)
+  * [Blog](https://initto.devprotocol.xyz/)
+  * [Fórum de Discussão](https://community.devprotocol.xyz/)
+  * [Github](https://github.com/dev-protocol)
+  * [Twitter](https://twitter.com/devprtcl)
+  * [Discord](https://discord.gg/vUBmjuk)
+  * [Telegram](https://t.me/devprtcl)
+  * [Dev Memes (Telegram)](https://t.me/DevMemeTreasury)
 
 ## Comprar DEV Protocol
 
 Para comprar DEV você precisa usar a Uniswap ou 1INCH.
 
-  * [Comprar na Uniswap](https://app.uniswap.org/#/swap?outputCurrency=0x5caf454ba92e6f2c929df14667ee360ed9fd5b26)
+  * [Comprar na Uniswap](https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x5caf454ba92e6f2c929df14667ee360ed9fd5b26&use=V2)
   * [Comprar na 1INCH](https://app.1inch.io/#/1/swap/ETH/DEV)
