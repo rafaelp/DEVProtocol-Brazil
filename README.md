@@ -18,7 +18,7 @@ A comunidade brasileira do DEV Protocol tem como principal objetivo disseminar o
 
 Montamos um roadmap inicial para consolidar a comunidade brasileira com as seguintes tarefas:
 
-  * :heavy_check_mark: Canal do Telegram [https://t.me/DEVProtocolPortugues](https://t.me/DEVProtocolPortugues)
+  * :heavy_check_mark: [Canal do Telegram](https://t.me/DEVProtocolPortugues)
   * :hourglass_flowing_sand: Tradução da documentação disponível em [https://docs.devprotocol.xyz/dev-protocol/](https://docs.devprotocol.xyz/dev-protocol/)
   * :hourglass_flowing_sand: Tradução do website disponível em [https://devprotocol.xyz/](https://devprotocol.xyz/)
   * :hourglass_flowing_sand: Publicação do projeto da comunidade no [Stakes.social](https://stakes.social)
@@ -38,7 +38,8 @@ Montamos um roadmap inicial para consolidar a comunidade brasileira com as segui
   * [Github](https://github.com/dev-protocol)
   * [Twitter](https://twitter.com/devprtcl)
   * [Discord](https://discord.gg/vUBmjuk)
-  * [Telegram](https://t.me/devprtcl)
+  * [Telegram (Inglês)](https://t.me/devprtcl)
+  * [Telegram (Português)](https://t.me/DEVProtocolPortugues)
   * [Dev Memes (Telegram)](https://t.me/DevMemeTreasury)
 
 ## Comprar DEV Protocol
