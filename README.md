@@ -8,7 +8,7 @@ DEV é um protocolo baseado no blockchain da Ethereum que permite que projetos o
 
 Patronos podem realizar o stake de tokens DEV para projetos que eles querem apoiar. O protocolo gera rendimentos que são divididos entre o patrono e o desenvolvedor do projeto. DEV protocol é a única plataforma que permite que tanto os patronos quanto os desenvolvedores ganhem dinheiro por suportar uns aos outros.
 
-Para mais informações (em inglês) sobre o protocolo, visite sua documentação em [https://docs.devprotocol.xyz/dev-protocol/](https://docs.devprotocol.xyz/dev-protocol/)
+Para mais informações (em inglês) sobre o protocolo, visite sua documentação em [https://docs.devprotocol.xyz/](https://docs.devprotocol.xyz/)
 
 ## Comunidade Brasileira
 
@@ -19,7 +19,8 @@ A comunidade brasileira do DEV Protocol tem como principal objetivo disseminar o
 Montamos um roadmap inicial para consolidar a comunidade brasileira com as seguintes tarefas:
 
   * :heavy_check_mark: [Canal do Telegram](https://t.me/DEVProtocolPortugues)
-  * :hourglass_flowing_sand: Tradução da documentação disponível em [https://docs.devprotocol.xyz/dev-protocol/](https://docs.devprotocol.xyz/dev-protocol/)
+  * :heavy_check_mark: [Canal em Português no Discord](https://discord.gg/nGAuccRv)
+  * :heavy_check_mark: Tradução da documentação disponível em [https://docs.devprotocol.xyz/](https://docs.devprotocol.xyz/)
   * :hourglass_flowing_sand: Tradução do website disponível em [https://devprotocol.xyz/](https://devprotocol.xyz/)
   * :hourglass_flowing_sand: Publicação do projeto da comunidade no [Stakes.social](https://stakes.social)
   * :hourglass_flowing_sand: Criação do token *$DEVBR* para ser distribuído pelos desenvolvedores que participarem da comunidade.
@@ -28,7 +29,7 @@ Montamos um roadmap inicial para consolidar a comunidade brasileira com as segui
 
   * Website: https://devprotocol.xyz/
   * Whitepaper: https://github.com/dev-protocol/protocol/blob/main/docs/WHITEPAPER.md
-  * Documentação: https://docs.devprotocol.xyz/dev-protocol/
+  * Documentação: https://docs.devprotocol.xyz/
 
 ## Comunidade DEV Protocol
 
